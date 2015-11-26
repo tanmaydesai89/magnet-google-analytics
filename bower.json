@@ -1,0 +1,28 @@
+{
+  "name": "magnet-google-analytics",
+  "version": "15.04.13",
+  "authors": [
+    "Tanmay Desai <tanmay@getmagnet.com>"
+  ],
+  "description": "Latest Google Analytics JS file to include locally",
+  "main": "dist/analytics.js",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "google",
+    "analytics",
+    "analytics",
+    "ga",
+    "magnet"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
